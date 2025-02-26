@@ -1,1 +1,2 @@
-![altoidlol's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altoidlol&theme=vue&show_icons=true&hide_border=false&layout=compact) ![altoidlol's Stats](https://github-readme-stats.vercel.app/api?username=altoidlol&theme=vue&show_icons=true&hide_border=false&count_private=true)
+![altoidlol's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altoidlol&theme=vue&show_icons=true&hide_border=false&layout=compact)
+![altoidlol's Streak](https://github-readme-streak-stats.herokuapp.com/?user=altoidlol&theme=vue&hide_border=false) ![altoidlol's Stats](https://github-readme-stats.vercel.app/api?username=altoidlol&theme=vue&show_icons=true&hide_border=false&count_private=true)

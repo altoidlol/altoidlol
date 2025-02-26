@@ -12,6 +12,7 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/>
 </div>
 <br>
+[![](https://komarev.com/ghpvc/?username=marwin1991&color=000000)](https://github.com/marwin1991?tab=repositories)
 <div align="center">
   
   ![altoidlol's Stats](https://github-readme-stats.vercel.app/api?username=altoidlol&theme=vue&show_icons=true&hide_border=false&count_private=true)
